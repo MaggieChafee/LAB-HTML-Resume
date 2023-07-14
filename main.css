@@ -1,0 +1,48 @@
+body {
+  background-color: rebeccapurple;
+  }
+header {
+  color: whitesmoke;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  }
+h3 {
+  color: lavender;
+  font-size: 20px;
+  font-weight: lighter;
+  text-align: center;
+  }
+h2 {
+  color: whitesmoke;
+  font-size: 25px;
+  font-weight: bold;
+  }
+p {
+  color: lavender;
+  font-size: 15px;
+ }
+li {
+  color:lavender;
+ }
+h4 {
+  color: mediumpurple;
+ }
+#Music {
+  font-family: Arial, Helvetica, sans-serif;
+  border-style: groove;
+  border-color: darkslateblue;
+  padding: 5px;
+ }
+#Office {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border-style: dashed;
+  border-color: darkslateblue;
+  padding: 5px;
+ }
+#Tickets {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  border-style: ridge;
+  border-color: darkslateblue;
+  padding: 5px;
+ }
